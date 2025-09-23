@@ -9,7 +9,7 @@
 
 # Laravel Testing Project
 
-![najwakhadijah-dotcom](https://github.com/najwakhadijah-dotcom/wawa10.git)
+![najwakhadijah-dotcom](https://github.com/najwakhadijah-dotcom/wawa10/actions/workflows/laravel-tests.yml/badge.svg)
 
 ## About Laravel
 
